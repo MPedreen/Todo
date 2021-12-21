@@ -1,0 +1,1 @@
+# Projeto em que acompanho o curso de ASP.NET 6 do balta.io
